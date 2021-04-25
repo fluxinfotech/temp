@@ -377,7 +377,7 @@ color:#fff;
 	
 	color: #fafafa;
 	letter-spacing: 1px;
-        font-size:.73em;
+        //font-size:.73em;
        //text-shadow:1px 0px rgba(0,0,0,0.5);
 }
 
@@ -477,8 +477,9 @@ p.lead
 	margin-left: 6px;
 }
 .main-heading-text {
-	font-size: 16px;
+	font-size: 24px;
 	color: #ffffff;
+    padding: 40px;
 	margin-bottom: 20px;
 }
 .main-cursor {
